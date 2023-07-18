@@ -1,0 +1,20 @@
+{
+  "name": "firstapp",
+  "version": "1.0.0",
+  "description": "a node js program",
+  "main": "1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "No",
+    "study",
+    "No",
+    "confusion"
+  ],
+  "author": "Anshita soni",
+  "license": "ISC",
+  "dependencies": {
+    "console-log-colors": "^0.4.0"
+  }
+}
